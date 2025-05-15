@@ -1,4 +1,4 @@
-# Minitab-Crack
+# Minitab [2025]: Statistical Analysis and Quality Improvement
 Minitab is a statistical software package developed to simplify data analysis and process improvement. Originally designed to aid in teaching statistics, it has evolved into a comprehensive suite for predictive analytics, process control, and problem-solving, used by organizations ranging from educational institutions to Fortune 500 companies.
 
 Minitab has earned its reputation as one of the most trusted software tools for statistical analysis, quality improvement, and Six Sigma projects. With an intuitive interface and powerful analytics engine, Minitab is a top choice for engineers, data scientists, educators, and quality professionals around the world.
